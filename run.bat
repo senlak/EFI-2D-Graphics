@@ -1,0 +1,1 @@
+qemu-system-x86_64 -bios ovmf.fd -drive file=fat:rw:C:\Users\dp\Documents\posix-uefi,format=raw,media=disk -nodefaults -display gtk -vga std
